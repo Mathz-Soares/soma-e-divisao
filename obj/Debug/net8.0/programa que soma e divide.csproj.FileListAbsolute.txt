@@ -1,0 +1,14 @@
+C:\Users\id148\Desktop\Matheus\programa que soma e divide\bin\Debug\net8.0\programa que soma e divide.exe
+C:\Users\id148\Desktop\Matheus\programa que soma e divide\bin\Debug\net8.0\programa que soma e divide.deps.json
+C:\Users\id148\Desktop\Matheus\programa que soma e divide\bin\Debug\net8.0\programa que soma e divide.runtimeconfig.json
+C:\Users\id148\Desktop\Matheus\programa que soma e divide\bin\Debug\net8.0\programa que soma e divide.dll
+C:\Users\id148\Desktop\Matheus\programa que soma e divide\bin\Debug\net8.0\programa que soma e divide.pdb
+C:\Users\id148\Desktop\Matheus\programa que soma e divide\obj\Debug\net8.0\programa que soma e divide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\id148\Desktop\Matheus\programa que soma e divide\obj\Debug\net8.0\programa que soma e divide.AssemblyInfoInputs.cache
+C:\Users\id148\Desktop\Matheus\programa que soma e divide\obj\Debug\net8.0\programa que soma e divide.AssemblyInfo.cs
+C:\Users\id148\Desktop\Matheus\programa que soma e divide\obj\Debug\net8.0\programa que soma e divide.csproj.CoreCompileInputs.cache
+C:\Users\id148\Desktop\Matheus\programa que soma e divide\obj\Debug\net8.0\programa que soma e divide.dll
+C:\Users\id148\Desktop\Matheus\programa que soma e divide\obj\Debug\net8.0\refint\programa que soma e divide.dll
+C:\Users\id148\Desktop\Matheus\programa que soma e divide\obj\Debug\net8.0\programa que soma e divide.pdb
+C:\Users\id148\Desktop\Matheus\programa que soma e divide\obj\Debug\net8.0\programa que soma e divide.genruntimeconfig.cache
+C:\Users\id148\Desktop\Matheus\programa que soma e divide\obj\Debug\net8.0\ref\programa que soma e divide.dll
